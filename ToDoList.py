@@ -1,7 +1,5 @@
 #! /usr/local/bin/python3
 
-# ver 0.1.0 
-
 import tkinter as tk
 from tkinter import messagebox
 import sqlite3 as sq
